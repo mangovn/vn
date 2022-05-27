@@ -7,5 +7,5 @@
   "game": "",
   "patch": "",
   "vid": "",
-  "image": [{ "image": "/image/SM1.jpg" }, { "image": "/image/SM2.jpg" }, { "image": "/image/SM3.jpg" }, { "image": "/image/SM4.jpg" }]
+  "image": [{ "image": "/image/SM1.jpg" }, { "image": "/image/SM3.jpg" }]
 }
