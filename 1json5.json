@@ -7,5 +7,5 @@
   "game": "https://mangochan.site/SGGame",
   "patch": "https://mangochan.site/SGPatch",
   "vid": "",
-  "image": [{ "image": "/image/SG1.jpg" }, { "image": "/image/SG2.jpg" }, { "image": "/image/SG3.jpg" }, { "image": "/image/SG4.jpg" }]
+  "image": [{ "image": "/image/SG1.jpg" }, { "image": "/image/SG3.jpg" }]
 }
